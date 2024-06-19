@@ -14,7 +14,9 @@
 💬 Ask me about: Frontend technologies, Programming in C, C++, and Java
 
 📫 How to reach me: Email-gaurimanda24@gmail.com
-                    LinkedIn-
+
+   LinkedIn-https://www.linkedin.com/in/Gauri Manda/
+
                     
 ⚡ Fun fact: I enjoy solving coding challenges and participating in hackathons!
 
