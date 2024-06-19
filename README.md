@@ -15,7 +15,7 @@
 
 📫 How to reach me: Email-gaurimanda24@gmail.com
 
-   LinkedIn-https://www.linkedin.com/in/GauriManda/
+   LinkedIn-(https://www.linkedin.com/in/gauri-manda-ganthade-96804925b/)
 
                     
 ⚡ Fun fact: I enjoy solving coding challenges and participating in hackathons!
