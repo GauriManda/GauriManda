@@ -1,7 +1,7 @@
 👋 Hi, I'm Gauri Manda!
 
 🎓 Currently studying: 
-   3rd Year Computer Science Engineering
+   4th Year Computer Science Engineering
 💻 Skills: Frontend Development
           C
           C++
